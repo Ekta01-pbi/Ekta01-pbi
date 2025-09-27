@@ -26,3 +26,64 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=born01toshine&show_icons=true&locale=en" alt="born01toshine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=born01toshine&" alt="born01toshine" /></p>
+
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Born01toshine/Born01tishine/blob/main/1733978314307.jpeg" alt="header"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MIS+Analyst+%7C+Power+BI+Enthusiast;Data+Analytics+%7C+Business+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+- 💼 3+ years of experience as an **MIS Analyst** (Excel & Reporting Specialist)  
+- 📊 Currently building projects in **Power BI, SQL, and Python**  
+- 🎯 Goal: Transition into a **Power BI Analyst** role by Dec 2025  
+- 📚 Lifelong learner with interest in **Data Visualization & Business Analytics**  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" />
+  <img  width="110" src="https://www.forestgt.com.au/wp-content/uploads/2022/03/Signature-banner-13.png" />
+  <img  width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_881BMAK4h7fqSHLcuV7AFBkcm73_YaGHgQ&s" />
+  <img  width="100" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" />
+ 
+</p>
+
+---
+
+
+
+---
+
+## 🚀 Featured Projects
+- 📊 **[Sales Dashboard - Power BI](#)** – Interactive dashboard analyzing sales performance  
+- 🗄 **[SQL Data Analysis Project](#)** – Queries & insights from raw datasets  
+- 📑 **[Excel Automation Templates](#)** – Advanced Excel models for reporting  
+
+*(Add links to your repositories once uploaded)*
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAF7B,100:3A1C71&height=100&section=footer"/>
+</p>
+
