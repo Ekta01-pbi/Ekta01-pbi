@@ -1,21 +1,43 @@
 ![LOGO](https://github.com/Born01toshine/Born01tishine/blob/main/1733978314307.jpeg)
+
 <h1 align="center">Hi 👋, I'm EKTA KUMARI</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MIS+Analyst+%7C+Power+BI+Enthusiast;Data+Analytics+%7C+Business+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A passionate MIS Analyst from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=born01toshine&label=Profile%20views&color=0e75b6&style=flat" alt="born01toshine" /> </p>
 
+
+
+ 👩‍💻 About Me
+- 💼 3+ years of experience as an **MIS Analyst** (Excel & Reporting Specialist)
 - 🌱 I’m currently learning **SQL , statistics**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ekta-mishra-b293b721a/](https://www.linkedin.com/in/ekta-mishra-b293b721a/)
-
+- 📊 Currently building projects in **Power BI and SQL**  
+- 🎯 Goal: Transition into a **Power BI Analyst** role by Dec 2025  
+- 📚 Lifelong learner with interest in **Data Visualization & Business Analytics**
 - 📫 How to reach me **ektamishra12908@gmail.com**
 
 - ⚡ Fun fact **I am Dynamic 😁**
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ekta-mishra-b293b721a/](https://www.linkedin.com/in/ekta-mishra-b293b721a/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ekta-mishra-b293b721a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta-mishra-b293b721a" height="30" width="40" /></a>
+
+
+
+---
+
+
+## 🌐 Connect With Me
+
+ <p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,26 +49,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=born01toshine&" alt="born01toshine" /></p>
 
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Born01toshine/Born01tishine/blob/main/1733978314307.jpeg" alt="header"/>
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MIS+Analyst+%7C+Power+BI+Enthusiast;Data+Analytics+%7C+Business+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
-</p>
-
----
-
-## 👩‍💻 About Me
-- 💼 3+ years of experience as an **MIS Analyst** (Excel & Reporting Specialist)  
-- 📊 Currently building projects in **Power BI, SQL, and Python**  
-- 🎯 Goal: Transition into a **Power BI Analyst** role by Dec 2025  
-- 📚 Lifelong learner with interest in **Data Visualization & Business Analytics**  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -60,25 +62,11 @@
 
 ---
 
-
-
----
-
 ## 🚀 Featured Projects
 - 📊 **[Sales Dashboard - Power BI](#)** – Interactive dashboard analyzing sales performance  
 - 🗄 **[SQL Data Analysis Project](#)** – Queries & insights from raw datasets  
 - 📑 **[Excel Automation Templates](#)** – Advanced Excel models for reporting  
 
-*(Add links to your repositories once uploaded)*
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
