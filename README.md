@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate MIS Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/28009276/file/original-7f5e42b060e1417584d3faddeb969963.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=born01toshine&label=Profile%20views&color=0e75b6&style=flat" alt="born01toshine" /> </p>
 
