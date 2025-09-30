@@ -16,7 +16,8 @@
  👩‍💻 About Me
 - 💼 3+ years of experience as an **MIS Analyst** (Excel & Reporting Specialist)
 - 🌱 I’m currently learning **SQL , statistics**
-- 📊 Currently building projects in **Power BI and SQL**  
+- 📊 Currently building projects in **Power BI and SQL**
+- 📚 Mathematics & Statisticts Graduate
 - 🎯 Goal: Transition into a **Power BI Analyst** role by Dec 2025  
 - 📚 Lifelong learner with interest in **Data Visualization & Business Analytics**
 - 📫 How to reach me **ektamishra12908@gmail.com**
