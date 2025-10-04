@@ -44,11 +44,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=born01toshine&show_icons=true&locale=en&layout=compact" alt="born01toshine" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=born01toshine&show_icons=true&locale=en&layout=compact" alt="Ekta01-pbi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=born01toshine&show_icons=true&locale=en" alt="born01toshine" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=born01toshine&show_icons=true&locale=en" alt="Ekta01-pbi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=born01toshine&" alt="born01toshine" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=born01toshine&" alt="Ekta01-pbi" /></p>
 
 
 ## 🛠️ Tech Stack
