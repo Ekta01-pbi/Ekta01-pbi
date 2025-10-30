@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MIS+Analyst+%7C+Power+BI+Enthusiast;Data+Analytics+%7C+Business+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A passionate MIS Analyst from India</h3>
+<h3 align="center">A passionate Reporting Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/28009276/file/original-7f5e42b060e1417584d3faddeb969963.gif">
 
@@ -14,7 +14,7 @@
 
 
  👩‍💻 About Me
-- 💼 3+ years of experience as an **MIS Analyst** (Excel & Reporting Specialist)
+- 💼 3+ years of experience as an **Reporting Analyst** (Excel & Reporting Specialist)
 - 🌱 I’m currently learning **SQL , statistics**
 - 📊 Currently building projects in **Power BI and SQL**
 - 📚 Mathematics & Statisticts Graduate
